@@ -1,0 +1,20 @@
+{
+  "name": "hackru-rustudying",
+  "version": "1.0.0",
+  "description": "RU Studying\r Problem: Finding study buddies or location spots that are not taken.\r Main Idea: A web app that shows both study locations and it’s availability",
+  "main": "index.js",
+  "scripts": {
+     "start": "node src/frontEnd.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EMVT-xtr/HackRU-RUStudying.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EMVT-xtr/HackRU-RUStudying/issues"
+  },
+  "homepage": "https://github.com/EMVT-xtr/HackRU-RUStudying#readme"
+}
